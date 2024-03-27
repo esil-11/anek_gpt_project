@@ -22,4 +22,4 @@
 <br /> __train.py__ - 
 
 [___Сслыка на бот___]()
-[___Ссылка на pythonanywhere___]()
+<br /> [___Ссылка на pythonanywhere___]()
