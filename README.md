@@ -13,13 +13,13 @@
 3. Создаём бот
 
 ### Что в каком файле лежит:
-< hr/> ## __anekdataset.py__ - 
-< hr/> ## __config.py__ - 
-< hr/> ## __generete.py__ - 
-< hr/> ## __lookup.py__ -
-< hr/> ## __tokenizer.py__ - 
-< hr/> ## __train.ipnb__ - 
-< hr/> ## __train.py__ - 
+__anekdataset.py__ - 
+<br /> __config.py__ - 
+<br /> __generete.py__ - 
+<br /> __lookup.py__ -
+<br /> __tokenizer.py__ - 
+<br /> __train.ipnb__ - 
+<br /> __train.py__ - 
 
 [___Сслыка на бот___]()
 <br /> [___Ссылка на pythonanywhere___]()
