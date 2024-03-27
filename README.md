@@ -13,7 +13,7 @@
 3. Создаём бот
 
 ### Что в каком файле лежит:
-<br /> __anekdataset.py__ - 
+__anekdataset.py__ - 
 <br /> __config.py__ - 
 <br /> __generete.py__ - 
 <br /> __lookup.py__ -
